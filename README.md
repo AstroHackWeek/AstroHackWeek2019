@@ -5,9 +5,9 @@ Astro Hack Week 2019.
 
 ### Tutorials
 * Monday: Data Visualization
-* Tuesday: Bayesian Statistics and MCMC
-* Wednesday: Intro to Machine Learning
-* Thursday: Machine Learning and Statistics
+* Tuesday: Software Development and Querying Surveys + Data Management
+* Wednesday: Machine Learning, Bayesian Inference
+* Thursday: Machine Learning, Bayesian Inference
 
 ### Instructions for Pull Requests
 
