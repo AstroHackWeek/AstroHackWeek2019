@@ -21,7 +21,7 @@ Further information on this topic can be found [here](https://help.github.com/ar
 6. make your changes
 7. commit your changes by typing "git add myfile.dat" (where myfile.dat is the file you just added/changed), followed by "git commit -m 'add a descriptive commit message here'".
 8. type "git push", which will push your changes to *your* fork of the repository
-9. Navigate to [pull requests page](https://github.com/AstroHackWeek/AstroHackWeek2019/pulls) of the AHW2018 repo, and click "new pull request"
+9. Navigate to [pull requests page](https://github.com/AstroHackWeek/AstroHackWeek2019/pulls) of the AHW2019 repo, and click "new pull request"
 10. click the link "Compare across forks"
 11.  leave the box "base fork:AstroHackWeek/AstroHack..." as is, but in the box after the arrow, change "head fork: AstroHackWeek:AstroHack..." to "head fork:YourGHUserName:AstroHackWeek2018" and "compare:master" to "compare:mynewbranch"
 12. Write an informative commit message and click "create pull request"
