@@ -4,10 +4,18 @@ This repository contains materials and information about
 Astro Hack Week 2019.
 
 ### Tutorials
+
 * Monday: Data Visualization
 * Tuesday: Software Development and Querying Surveys + Data Management
 * Wednesday: Machine Learning, Bayesian Inference
 * Thursday: Machine Learning, Bayesian Inference
+
+### Binder
+
+If you want to open the notebooks in this repository on binder, you can use
+the link below:
+
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/AstroHackWeek/AstroHackWeek2019/master)
 
 ### Instructions for Pull Requests
 
