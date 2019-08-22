@@ -1,0 +1,9 @@
+numpy
+matplotlib
+astropy
+seaborn
+altair
+vega
+pywwt
+mpl-scatter-density
+notebook
