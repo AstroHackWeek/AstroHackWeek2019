@@ -8,3 +8,4 @@ pywwt
 mpl-scatter-density
 notebook
 PyYAML
+h5py
