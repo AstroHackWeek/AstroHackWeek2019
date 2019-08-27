@@ -33,3 +33,4 @@ Further information on this topic can be found [here](https://help.github.com/ar
 10. click the link "Compare across forks"
 11.  leave the box "base fork:AstroHackWeek/AstroHack..." as is, but in the box after the arrow, change "head fork: AstroHackWeek:AstroHack..." to "head fork:YourGHUserName:AstroHackWeek2019" and "compare:master" to "compare:mynewbranch"
 12. Write an informative commit message and click "create pull request"
+13. Party.
